@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApi
+namespace Unleash.Demo.WebApi
 {
     public class WeatherForecast
     {
